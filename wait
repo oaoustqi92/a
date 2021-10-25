@@ -1,302 +1,429 @@
 #!/bin/bash
-echo "mulai memasak" && sleep 60
-echo "1 menit" && sleep 60
-echo "2 menit" && sleep 60
-echo "3 menit" && sleep 60
-echo "4 menit" && sleep 60
-echo "5 menit" && sleep 60
-echo "6 menit" && sleep 60
-echo "7 menit" && sleep 60
-echo "8 menit" && sleep 60
-echo "9 menit" && sleep 60
-echo "10 menit" && sleep 60
-echo "11 menit" && sleep 60
-echo "12 menit" && sleep 60
-echo "13 menit" && sleep 60
-echo "14 menit" && sleep 60
-echo "15 menit" && sleep 60
-echo "16 menit" && sleep 60
-echo "17 menit" && sleep 60
-echo "18 menit" && sleep 60
-echo "19 menit" && sleep 60
-echo "20 menit" && sleep 60
-echo "21 menit" && sleep 60
-echo "22 menit" && sleep 60
-echo "23 menit" && sleep 60
-echo "24 menit" && sleep 60
-echo "25 menit" && sleep 60
-echo "26 menit" && sleep 60
-echo "27 menit" && sleep 60
-echo "28 menit" && sleep 60
-echo "29 menit" && sleep 60
-echo "30 menit" && sleep 60
-echo "31 menit" && sleep 60
-echo "32 menit" && sleep 60
-echo "33 menit" && sleep 60
-echo "34 menit" && sleep 60
-echo "35 menit" && sleep 60
-echo "36 menit" && sleep 60
-echo "37 menit" && sleep 60
-echo "38 menit" && sleep 60
-echo "39 menit" && sleep 60
-echo "40 menit" && sleep 60
-echo "41 menit" && sleep 60
-echo "42 menit" && sleep 60
-echo "43 menit" && sleep 60
-echo "44 menit" && sleep 60
-echo "45 menit" && sleep 60
-echo "46 menit" && sleep 60
-echo "47 menit" && sleep 60
-echo "48 menit" && sleep 60
-echo "49 menit" && sleep 60
-echo "50 menit" && sleep 60
-echo "51 menit" && sleep 60
-echo "52 menit" && sleep 60
-echo "53 menit" && sleep 60
-echo "54 menit" && sleep 60
-echo "55 menit" && sleep 60
-echo "56 menit" && sleep 60
-echo "57 menit" && sleep 60
-echo "58 menit" && sleep 60
-echo "59 menit" && sleep 60
-echo "60 menit" && sleep 60
-echo "61 menit" && sleep 60
-echo "62 menit" && sleep 60
-echo "63 menit" && sleep 60
-echo "64 menit" && sleep 60
-echo "65 menit" && sleep 60
-echo "66 menit" && sleep 60
-echo "67 menit" && sleep 60
-echo "68 menit" && sleep 60
-echo "69 menit" && sleep 60
-echo "70 menit" && sleep 60
-echo "71 menit" && sleep 60
-echo "72 menit" && sleep 60
-echo "73 menit" && sleep 60
-echo "74 menit" && sleep 60
-echo "75 menit" && sleep 60
-echo "76 menit" && sleep 60
-echo "77 menit" && sleep 60
-echo "78 menit" && sleep 60
-echo "79 menit" && sleep 60
-echo "80 menit" && sleep 60
-echo "81 menit" && sleep 60
-echo "82 menit" && sleep 60
-echo "83 menit" && sleep 60
-echo "84 menit" && sleep 60
-echo "85 menit" && sleep 60
-echo "86 menit" && sleep 60
-echo "87 menit" && sleep 60
-echo "88 menit" && sleep 60
-echo "89 menit" && sleep 60
-echo "90 menit" && sleep 60
-echo "91 menit" && sleep 60
-echo "92 menit" && sleep 60
-echo "93 menit" && sleep 60
-echo "94 menit" && sleep 60
-echo "95 menit" && sleep 60
-echo "96 menit" && sleep 60
-echo "97 menit" && sleep 60
-echo "98 menit" && sleep 60
-echo "99 menit" && sleep 60
-echo "100 menit" && sleep 60
-echo "101 menit" && sleep 60
-echo "102 menit" && sleep 60
-echo "103 menit" && sleep 60
-echo "104 menit" && sleep 60
-echo "105 menit" && sleep 60
-echo "106 menit" && sleep 60
-echo "107 menit" && sleep 60
-echo "108 menit" && sleep 60
-echo "109 menit" && sleep 60
-echo "110 menit" && sleep 60
-echo "111 menit" && sleep 60
-echo "112 menit" && sleep 60
-echo "113 menit" && sleep 60
-echo "114 menit" && sleep 60
-echo "115 menit" && sleep 60
-echo "116 menit" && sleep 60
-echo "117 menit" && sleep 60
-echo "118 menit" && sleep 60
-echo "119 menit" && sleep 60
-echo "120 menit" && sleep 60
-echo "121 menit" && sleep 60
-echo "122 menit" && sleep 60
-echo "123 menit" && sleep 60
-echo "124 menit" && sleep 60
-echo "125 menit" && sleep 60
-echo "126 menit" && sleep 60
-echo "127 menit" && sleep 60
-echo "128 menit" && sleep 60
-echo "129 menit" && sleep 60
-echo "130 menit" && sleep 60
-echo "131 menit" && sleep 60
-echo "132 menit" && sleep 60
-echo "133 menit" && sleep 60
-echo "134 menit" && sleep 60
-echo "135 menit" && sleep 60
-echo "136 menit" && sleep 60
-echo "137 menit" && sleep 60
-echo "138 menit" && sleep 60
-echo "139 menit" && sleep 60
-echo "140 menit" && sleep 60
-echo "141 menit" && sleep 60
-echo "142 menit" && sleep 60
-echo "143 menit" && sleep 60
-echo "144 menit" && sleep 60
-echo "145 menit" && sleep 60
-echo "146 menit" && sleep 60
-echo "147 menit" && sleep 60
-echo "148 menit" && sleep 60
-echo "149 menit" && sleep 60
-echo "150 menit" && sleep 60
-echo "151 menit" && sleep 60
-echo "152 menit" && sleep 60
-echo "153 menit" && sleep 60
-echo "154 menit" && sleep 60
-echo "155 menit" && sleep 60
-echo "156 menit" && sleep 60
-echo "157 menit" && sleep 60
-echo "158 menit" && sleep 60
-echo "159 menit" && sleep 60
-echo "160 menit" && sleep 60
-echo "161 menit" && sleep 60
-echo "162 menit" && sleep 60
-echo "163 menit" && sleep 60
-echo "164 menit" && sleep 60
-echo "165 menit" && sleep 60
-echo "166 menit" && sleep 60
-echo "167 menit" && sleep 60
-echo "168 menit" && sleep 60
-echo "169 menit" && sleep 60
-echo "170 menit" && sleep 60
-echo "171 menit" && sleep 60
-echo "172 menit" && sleep 60
-echo "173 menit" && sleep 60
-echo "174 menit" && sleep 60
-echo "175 menit" && sleep 60
-echo "176 menit" && sleep 60
-echo "177 menit" && sleep 60
-echo "178 menit" && sleep 60
-echo "179 menit" && sleep 60
-echo "180 menit" && sleep 60
-echo "181 menit" && sleep 60
-echo "182 menit" && sleep 60
-echo "183 menit" && sleep 60
-echo "184 menit" && sleep 60
-echo "185 menit" && sleep 60
-echo "186 menit" && sleep 60
-echo "187 menit" && sleep 60
-echo "188 menit" && sleep 60
-echo "189 menit" && sleep 60
-echo "190 menit" && sleep 60
-echo "191 menit" && sleep 60
-echo "192 menit" && sleep 60
-echo "193 menit" && sleep 60
-echo "194 menit" && sleep 60
-echo "195 menit" && sleep 60
-echo "196 menit" && sleep 60
-echo "197 menit" && sleep 60
-echo "198 menit" && sleep 60
-echo "199 menit" && sleep 60
-echo "200 menit" && sleep 60
-echo "201 menit" && sleep 60
-echo "202 menit" && sleep 60
-echo "203 menit" && sleep 60
-echo "204 menit" && sleep 60
-echo "205 menit" && sleep 60
-echo "206 menit" && sleep 60
-echo "207 menit" && sleep 60
-echo "208 menit" && sleep 60
-echo "209 menit" && sleep 60
-echo "210 menit" && sleep 60
-echo "211 menit" && sleep 60
-echo "212 menit" && sleep 60
-echo "213 menit" && sleep 60
-echo "214 menit" && sleep 60
-echo "215 menit" && sleep 60
-echo "216 menit" && sleep 60
-echo "217 menit" && sleep 60
-echo "218 menit" && sleep 60
-echo "219 menit" && sleep 60
-echo "220 menit" && sleep 60
-echo "221 menit" && sleep 60
-echo "222 menit" && sleep 60
-echo "223 menit" && sleep 60
-echo "224 menit" && sleep 60
-echo "225 menit" && sleep 60
-echo "226 menit" && sleep 60
-echo "227 menit" && sleep 60
-echo "228 menit" && sleep 60
-echo "229 menit" && sleep 60
-echo "230 menit" && sleep 60
-echo "231 menit" && sleep 60
-echo "232 menit" && sleep 60
-echo "233 menit" && sleep 60
-echo "234 menit" && sleep 60
-echo "235 menit" && sleep 60
-echo "236 menit" && sleep 60
-echo "237 menit" && sleep 60
-echo "238 menit" && sleep 60
-echo "239 menit" && sleep 60
-echo "240 menit" && sleep 60
-echo "241 menit" && sleep 60
-echo "242 menit" && sleep 60
-echo "243 menit" && sleep 60
-echo "244 menit" && sleep 60
-echo "245 menit" && sleep 60
-echo "246 menit" && sleep 60
-echo "247 menit" && sleep 60
-echo "248 menit" && sleep 60
-echo "249 menit" && sleep 60
-echo "250 menit" && sleep 60
-echo "251 menit" && sleep 60
-echo "252 menit" && sleep 60
-echo "253 menit" && sleep 60
-echo "254 menit" && sleep 60
-echo "255 menit" && sleep 60
-echo "256 menit" && sleep 60
-echo "257 menit" && sleep 60
-echo "258 menit" && sleep 60
-echo "259 menit" && sleep 60
-echo "260 menit" && sleep 60
-echo "261 menit" && sleep 60
-echo "262 menit" && sleep 60
-echo "263 menit" && sleep 60
-echo "264 menit" && sleep 60
-echo "265 menit" && sleep 60
-echo "266 menit" && sleep 60
-echo "267 menit" && sleep 60
-echo "268 menit" && sleep 60
-echo "269 menit" && sleep 60
-echo "270 menit" && sleep 60
-echo "271 menit" && sleep 60
-echo "272 menit" && sleep 60
-echo "273 menit" && sleep 60
-echo "274 menit" && sleep 60
-echo "275 menit" && sleep 60
-echo "276 menit" && sleep 60
-echo "277 menit" && sleep 60
-echo "278 menit" && sleep 60
-echo "279 menit" && sleep 60
-echo "280 menit" && sleep 60
-echo "281 menit" && sleep 60
-echo "282 menit" && sleep 60
-echo "283 menit" && sleep 60
-echo "284 menit" && sleep 60
-echo "285 menit" && sleep 60
-echo "286 menit" && sleep 60
-echo "287 menit" && sleep 60
-echo "288 menit" && sleep 60
-echo "289 menit" && sleep 60
-echo "290 menit" && sleep 60
-echo "291 menit" && sleep 60
-echo "292 menit" && sleep 60
-echo "293 menit" && sleep 60
-echo "294 menit" && sleep 60
-echo "295 menit" && sleep 60
-echo "296 menit" && sleep 60
-echo "297 menit" && sleep 60
-echo "298 menit" && sleep 60
-echo "299 menit" && sleep 60
-echo "300 menit" && sleep 60
+
+while :
+do
+	echo HOSTCC  scripts/basic/fixdep
+	sleep 90
+	echo HOSTCC  arch/x86/tools/relocs_32.o
+	sleep 90
+	echo HOSTCC  arch/x86/tools/relocs_64.o
+	sleep 90
+	echo HOSTCC  arch/x86/tools/relocs_common.o
+	sleep 90
+	echo HOSTLD  arch/x86/tools/relocs
+	sleep 90
+	echo CHK     include/config/kernel.release
+	sleep 90
+	echo CHK     include/generated/uapi/linux/version.h
+	sleep 90
+	echo CHK     include/generated/utsrelease.h
+	sleep 90
+	echo CC      kernel/bounds.s
+	sleep 90
+	echo CHK     include/generated/bounds.h
+	sleep 90
+	echo CHK     include/generated/timeconst.h
+	sleep 90
+	echo CC      arch/x86/kernel/asm-offsets.s
+	sleep 90
+	echo CHK     include/generated/asm-offsets.h
+	sleep 90
+	echo CALL    scripts/checksyscalls.sh
+	sleep 90
+	echo checking build system type... x86_64-pc-linux-gnu
+	sleep 90
+	echo checking host system type... x86_64-pc-linux-gnu
+	sleep 90
+	echo checking target system type... x86_64-pc-linux-gnu
+	sleep 90
+	echo checking for x86_64-pc-linux-gnu-g++... x86_64-pc-linux-gnu-g++
+	sleep 90
+	echo checking whether the C++ compiler works... yes
+	sleep 90
+	echo checking for C++ compiler default output file name... a.out
+	sleep 90
+	echo checking for suffix of executables... 
+	sleep 90
+	echo checking whether we are cross compiling... no
+	sleep 90
+	echo checking for suffix of object files... o
+	sleep 90
+	echo checking whether we are using the GNU C++ compiler... yes
+	sleep 90
+	echo checking whether x86_64-pc-linux-gnu-g++ accepts -g... yes
+	sleep 90
+	echo checking for x86_64-pc-linux-gnu-gcc... x86_64-pc-linux-gnu-gcc
+	sleep 90
+	echo checking whether we are using the GNU C compiler... yes
+	sleep 90
+	echo checking whether x86_64-pc-linux-gnu-gcc accepts -g... yes
+	sleep 90
+	echo checking for x86_64-pc-linux-gnu-gcc option to accept ISO C89... none needed
+	sleep 90
+	echo checking for a sed that does not truncate output... /bin/sed
+	sleep 90
+	echo checking for gawk... gawkecho 
+	sleep 90
+	echo checking whether ln -s works... yes
+	sleep 90
+	echo checking whether make sets $(MAKE)... yes
+	sleep 90
+	echo checking for a thread-safe mkdir -p... /bin/mkdir -p
+	sleep 90
+	echo checking for a BSD-compatible install... /usr/lib/portage/python3.4/ebuild-helpers/xattr/install -c
+	sleep 90
+	echo checking how to run the C++ preprocessor... x86_64-pc-linux-gnu-g++ -E
+	sleep 90
+	echo checking for grep that handles long lines and -e... /bin/grep
+	sleep 90
+	echo checking for egrep... /bin/grep -E
+	sleep 90
+	echo checking for ANSI C header files... yes
+	sleep 90
+	echo checking for sys/types.h... yes
+	sleep 90
+	echo checking for sys/stat.h... yes 
+	sleep 90
+	echo checking for stdlib.h... yes
+	sleep 90
+	echo checking for string.h... yes
+	sleep 90
+	echo checking for memory.h... yes
+	sleep 90
+	echo checking for strings.h... yes
+	sleep 90
+	echo checking for inttypes.h... yes
+	sleep 90
+	echo checking for stdint.h... yes
+	sleep 90
+	echo checking for unistd.h... yes
+	sleep 90
+	echo checking expat.h usability... yes
+	sleep 90
+	echo checking expat.h presence... yes
+	sleep 90
+	echo checking for expat.h... yes
+	sleep 90
+	echo checking iostream usability... yes
+	sleep 90
+	echo checking iostream presence... yes
+	sleep 90
+	echo checking for iostream... yes
+	sleep 90
+	echo checking libaio.h usability... yes
+	sleep 90
+	echo checking libaio.h presence... yes
+	sleep 90
+	echo checking for libaio.h... yes
+	sleep 90
+	echo checking boost/bind.hpp usability... yes
+	sleep 90
+	echo checking boost/bind.hpp presence... yes
+	sleep 90
+	echo checking for boost/bind.hpp... yes
+	sleep 90
+	echo checking boost/crc.hpp usability... yes		
+	sleep 90
+	echo checking boost/crc.hpp presence... yes	
+	sleep 90
+	echo checking for boost/crc.hpp... yes
+	sleep 90
+	echo checking boost/lexical_cast.hpp usability... yes
+	sleep 90
+	echo checking boost/lexical_cast.hpp presence... yes
+	sleep 90
+	echo checking for boost/lexical_cast.hpp... yesecho 
+	sleep 90
+	echo checking boost/noncopyable.hpp usability... yes
+	sleep 90
+	echo checking boost/noncopyable.hpp presence... yes
+	sleep 90
+	echo checking for boost/noncopyable.hpp... yes
+	sleep 90
+	echo checking boost/optional.hpp usability... yes
+	sleep 90
+	echo checking boost/optional.hpp presence... yes
+	sleep 90
+	echo checking for boost/optional.hpp... yes
+	sleep 90
+	echo checking boost/shared_ptr.hpp usability... yes
+	sleep 90
+	echo checking boost/shared_ptr.hpp presence... yes
+	sleep 90
+	echo checking for boost/shared_ptr.hpp... yes
+	sleep 90
+	echo checking boost/static_assert.hpp usability... yes
+	sleep 90
+	echo checking boost/static_assert.hpp presence... yes
+	sleep 90
+	echo checking for boost/static_assert.hpp... yes
+	sleep 90
+	echo checking file owner... 
+	sleep 90
+	echo checking group owner... 
+	sleep 90
+	echo checking whether to enable debugging... no
+	sleep 90
+	echo checking for C++ optimisation flag... 
+	sleep 90
+	echo checking whether to enable unit testing... no
+	sleep 90
+	echo checking getopt.h usability... yes
+	sleep 90
+	echo checking getopt.h presence... yes
+	sleep 90
+	echo checking for getopt.h... yes
+	sleep 90
+	echo configure: creating ./config.status
+	sleep 90
+	echo config.status: creating Makefile
+	sleep 90
+	echo config.status: creating unit-tests/Makefile
+	sleep 90
+	echo     [CXX] base/application.cc
+	sleep 90
+	echo     [CXX] base/base64.cc
+	sleep 90
+	echo     [CXX] base/endian_utils.cc
+	sleep 90
+	echo     [CXX] base/error_state.cc
+	sleep 90
+	echo     [CXX] base/progress_monitor.cc
+	sleep 90
+	echo     [DEP] base/error_state.cc
+	sleep 90
+	echo     [CXX] base/xml_utils.cc
+	sleep 90
+	echo     [DEP] base/endian_utils.cc
+	sleep 90
+	echo     [CXX] block-cache/block_cache.cc
+	sleep 90
+	echo     [DEP] base/application.cc
+	sleep 90
+	echo     [DEP] base/progress_monitor.cc
+	sleep 90
+	echo     [CXX] caching/cache_check.cc
+	sleep 90
+	echo     [CXX] caching/cache_dump.cc
+	sleep 90
+	echo     [DEP] block-cache/block_cache.cc
+	sleep 90
+	echo     [CXX] caching/cache_metadata_size.cc
+	sleep 90
+	echo     [DEP] base/base64.cc
+	sleep 90
+	echo     [CXX] caching/cache_repair.cc
+	sleep 90
+	echo     [DEP] caching/cache_dump.cc
+	sleep 90
+	echo     [DEP] base/xml_utils.cc
+	sleep 90
+	echo     [CXX] caching/cache_restore.cc
+	sleep 90
+	echo     [CXX] caching/hint_array.cc
+	sleep 90
+	echo     [DEP] caching/cache_check.cc
+	sleep 90
+	echo     [CXX] caching/mapping_array.cc
+	sleep 90
+	echo     [DEP] caching/cache_repair.cc
+	sleep 90
+	echo     [CXX] caching/metadata.cc
+	sleep 90
+	echo     [DEP] caching/cache_metadata_size.cc
+	sleep 90
+	echo     [CXX] caching/metadata_dump.cc
+	sleep 90
+	echo     [DEP] caching/cache_restore.cc
+	sleep 90
+	echo     [CXX] caching/restore_emitter.cc
+	sleep 90
+	echo     [DEP] caching/metadata_dump.cc
+	sleep 90
+	echo     [CXX] caching/superblock.cc
+	sleep 90
+	echo     [DEP] caching/metadata.cc
+	sleep 90
+	echo     [DEP] caching/hint_array.cc
+	sleep 90
+	echo     [CXX] caching/xml_format.cc
+	sleep 90
+	echo     [CXX] era/era_array.cc
+	sleep 90
+	echo     [DEP] caching/mapping_array.cc
+	sleep 90
+	echo     [CXX] era/era_check.cc
+	sleep 90
+	echo     [DEP] caching/restore_emitter.cc
+	sleep 90
+	echo     [DEP] caching/superblock.cc
+	sleep 90
+	echo     [CXX] era/era_detail.cc
+	sleep 90
+	echo     [CXX] era/era_dump.cc
+	sleep 90
+	echo     [DEP] era/era_detail.cc
+	sleep 90
+	echo     [CXX] era/era_invalidate.cc
+	sleep 90
+	echo     [DEP] caching/xml_format.cc
+	sleep 90
+	echo     [DEP] era/era_dump.cc
+	sleep 90
+	echo     [CXX] era/era_restore.cc
+	sleep 90
+	echo     [CXX] era/metadata.cc
+	sleep 90
+	echo     [DEP] era/era_check.cc
+	sleep 90
+	echo     [CXX] era/metadata_dump.cc
+	sleep 90
+	echo     [DEP] era/era_array.cc
+	sleep 90
+	echo     [CXX] era/restore_emitter.cc
+	sleep 90
+	echo     [DEP] era/metadata_dump.cc
+	sleep 90
+	echo     [CXX] era/superblock.cc
+	sleep 90
+	echo     [DEP] era/era_invalidate.cc
+	sleep 90
+	echo     [DEP] era/era_restore.cc
+	sleep 90
+	echo     [CXX] era/writeset_tree.cc
+	sleep 90
+	echo     [CXX] era/xml_format.cc
+	sleep 90
+	echo     [DEP] era/metadata.cc
+	sleep 90
+	echo     [CXX] main.cc
+	sleep 90
+	echo     [DEP] main.ccsleep 1
+	sleep 90
+	echo     [DEP] era/restore_emitter.cc
+	sleep 90
+	echo     [CXX] persistent-data/checksum.cc
+	sleep 90
+	echo     [CXX] persistent-data/data-structures/bitset.cc
+	sleep 90
+	echo     [DEP] persistent-data/checksum.cc
+	sleep 90
+	echo     [CXX] persistent-data/data-structures/bloom_filter.cc
+	sleep 90
+	echo     [DEP] era/superblock.cc
+	sleep 90
+	echo     [CXX] persistent-data/data-structures/btree.cc
+	sleep 90
+	echo     [DEP] persistent-data/data-structures/bloom_filter.cc
+	sleep 90
+	echo     [CXX] persistent-data/error_set.cc
+	sleep 90
+	echo     [DEP] era/xml_format.cc
+	sleep 90
+	echo     [CXX] persistent-data/file_utils.cc
+	sleep 90
+	echo     [DEP] persistent-data/data-structures/btree.cc
+	sleep 90
+	echo     [CXX] persistent-data/hex_dump.cc
+	sleep 90
+	echo     [DEP] era/writeset_tree.cc
+	sleep 90
+	echo     [CXX] persistent-data/space-maps/careful_alloc.cc
+	sleep 90
+	echo     [DEP] persistent-data/hex_dump.cc
+	sleep 90
+	echo     [CXX] persistent-data/space-maps/disk.cc
+	sleep 90
+	echo     [DEP] persistent-data/error_set.cc
+	sleep 90
+	echo     [DEP] persistent-data/file_utils.cc
+	sleep 90
+	echo     [CXX] persistent-data/space-maps/recursive.cc
+	sleep 90
+	echo     [CXX] persistent-data/space_map.cc
+	sleep 90
+	echo     [DEP] persistent-data/data-structures/bitset.cc
+	sleep 90
+	echo     [DEP] persistent-data/space_map.cc
+	sleep 90
+	echo     [CXX] thin-provisioning/device_tree.cc
+	sleep 90
+	echo     [DEP] persistent-data/space-maps/careful_alloc.cc
+	sleep 90
+	echo     [CXX] thin-provisioning/human_readable_format.cc
+	sleep 90
+	echo     [DEP] persistent-data/transaction_manager.cc
+	sleep 90
+	echo     [CXX] thin-provisioning/mapping_tree.cc
+	sleep 90
+	echo     [DEP] thin-provisioning/human_readable_format.cc
+	sleep 90
+	echo     [CXX] thin-provisioning/metadata.cc
+	sleep 90
+	echo     [DEP] persistent-data/space-maps/recursive.cc
+	sleep 90
+	echo     [CXX] thin-provisioning/metadata_checker.cc
+	sleep 90
+	echo     [DEP] persistent-data/space-maps/disk.cc
+	sleep 90
+	echo     [CXX] thin-provisioning/metadata_dumper.cc
+	sleep 90
+	echo     [DEP] thin-provisioning/device_tree.cc
+	sleep 90
+	echo     [DEP] thin-provisioning/metadata_checker.cc
+	sleep 90
+	echo     [CXX] thin-provisioning/restore_emitter.cc
+	sleep 90
+	echo     [CXX] thin-provisioning/rmap_visitor.cc
+	sleep 90
+	echo     [DEP] thin-provisioning/rmap_visitor.cc
+	sleep 90
+	echo     [DEP] thin-provisioning/metadata_dumper.cc	
+	sleep 90
+	echo     [CXX] thin-provisioning/superblock.cc	
+	sleep 90
+	echo     [CXX] thin-provisioning/thin_check.cc
+	sleep 90
+	echo     [DEP] thin-provisioning/metadata.cc
+	sleep 90
+	echo     [DEP] thin-provisioning/mapping_tree.cc
+	sleep 90
+	echo     [CXX] thin-provisioning/thin_delta.cc
+	sleep 90
+	echo     [CXX] thin-provisioning/thin_dump.cc
+	sleep 90
+	echo     [DEP] thin-provisioning/superblock.cc
+	sleep 90
+	echo     [CXX] thin-provisioning/thin_metadata_size.cc
+	sleep 90
+	echo     [DEP] thin-provisioning/thin_metadata_size.cc
+	sleep 90
+	echo     [CXX] thin-provisioning/thin_pool.cc
+	sleep 90
+	echo     [DEP] thin-provisioning/thin_check.cc
+	sleep 90
+	echo     [DEP] thin-provisioning/restore_emitter.cc
+	sleep 90
+	echo     [CXX] thin-provisioning/thin_repair.cc
+	sleep 90
+	echo     [CXX] thin-provisioning/thin_restore.cc
+	sleep 90
+	echo     [DEP] thin-provisioning/thin_dump.cc
+	sleep 90
+	echo     [CXX] thin-provisioning/thin_rmap.cc
+	sleep 90
+	echo     [DEP] thin-provisioning/thin_restore.cc
+	sleep 90
+	echo     [DEP] thin-provisioning/thin_repair.cc
+	sleep 90
+	echo     [CXX] thin-provisioning/xml_format.cc
+	sleep 90
+	echo     [DEP] thin-provisioning/thin_pool.cc
+	sleep 90
+	echo     [DEP] thin-provisioning/thin_delta.cc
+	sleep 90
+	echo     [DEP] thin-provisioning/xml_format.cc
+	sleep 90
+	echo     [DEP] thin-provisioning/thin_rmap.cc
+	sleep 90
+done
