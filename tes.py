@@ -1,4 +1,3 @@
 import subprocess
-
-list_dir = subprocess.Popen(["./build", "ls"])
-list_dir.wait()
+import shlex
+subprocess.call(shlex.split('./build param1 param2'))
